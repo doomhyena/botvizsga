@@ -1,0 +1,13 @@
+
+Logs/
+*.log
+*.vbox-prev
+Snapshots/
+*.sav
+*.iso
+*.vdi
+*.vmdk
+*.vhd
+*.vhdx
+*.tmp
+*.bak
